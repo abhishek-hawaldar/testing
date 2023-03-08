@@ -1,0 +1,102 @@
+{
+    "books": [
+      {
+        "name": "The Great Gatsby",
+        "genre": "Classic",
+        "cost": 109,
+        "author": "F. Scott Fitzgerald"
+      },
+      {
+        "name": "To Kill a Mockingbird",
+        "genre": "Classic",
+        "cost": 99,
+        "author": "Harper Lee"
+      },
+      {
+        "name": "Pride and Prejudice",
+        "genre": "Classic",
+        "cost": 89,
+        "author": "Jane Austen"
+      },
+      {
+        "name": "The Catcher in the Rye",
+        "genre": "Coming-of-Age",
+        "cost": 119,
+        "author": "J.D. Salinger"
+      },
+      {
+        "name": "Animal Farm",
+        "genre": "Political Satire",
+        "cost": 79,
+        "author": "George Orwell"
+      },
+      {
+        "name": "The Hobbit",
+        "genre": "Fantasy",
+        "cost": 139,
+        "author": "J.R.R. Tolkien"
+      },
+      {
+        "name": "The Lord of the Rings",
+        "genre": "Fantasy",
+        "cost": 299,
+        "author": "J.R.R. Tolkien"
+      },
+      {
+        "name": "The Chronicles of Narnia",
+        "genre": "Fantasy",
+        "cost": 199,
+        "author": "C.S. Lewis"
+      },
+      {
+        "name": "A Game of Thrones",
+        "genre": "Fantasy",
+        "cost": 159,
+        "author": "George R.R. Martin"
+      },
+      {
+        "name": "The Da Vinci Code",
+        "genre": "Mystery",
+        "cost": 129,
+        "author": "Dan Brown"
+      },
+      {
+        "name": "Angels and Demons",
+        "genre": "Mystery",
+        "cost": 109,
+        "author": "Dan Brown"
+      },
+      {
+        "name": "The Girl with the Dragon Tattoo",
+        "genre": "Mystery",
+        "cost": 99,
+        "author": "Stieg Larsson"
+      },
+      {
+        "name": "The Hunger Games",
+        "genre": "Young Adult",
+        "cost": 89,
+        "author": "Suzanne Collins"
+      },
+      {
+        "name": "Divergent",
+        "genre": "Young Adult",
+        "cost": 79,
+        "author": "Veronica Roth"
+      },
+      {
+        "name": "The Fault in Our Stars",
+        "genre": "Young Adult",
+        "cost": 69,
+        "author": "John Green"
+      },
+      {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "genre": "Fantasy",
+        "cost": 169,
+        "author": "J.K. Rowling"
+      }
+    ]
+}
+  
+  
